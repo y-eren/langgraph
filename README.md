@@ -1,6 +1,7 @@
 # 📊 LangGraph - Graph Tabanlı LLM İş Akışı
 
-![Graph Workflow](graph/graph.png)
+![graph](https://github.com/user-attachments/assets/e8dff863-dc93-41ac-992a-de9a6c4fd175)
+
 
 ## 🚀 Proje Açıklaması
 LangGraph, **graph tabanlı bir iş akışı modelini** kullanarak **LLM tabanlı karar mekanizmaları** oluşturmayı amaçlayan bir projedir. 
@@ -76,7 +77,8 @@ langgraph/
 
 Aşağıdaki görsel, projenin nasıl çalıştığını gösteren **iş akışı diagramını (workflow)** temsil etmektedir:
 
-![Graph Workflow](graph/graph.png)
+![graph](https://github.com/user-attachments/assets/c3971f60-85fb-4b87-8fe5-49c802291062)
+
 
 - **Başlangıç:** Kullanıcı bir **soru sorar**.
 - **Retrieve:** Sistem, vektör tabanlı bir veri deposundan en uygun dokümanları alır.
