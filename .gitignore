@@ -1,0 +1,14 @@
+.env
+.chroma/
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.swp
+.DS_Store
+graph/graph.png
